@@ -19,11 +19,9 @@ sudo apt-get install ros-kinetic-joint-state-publisher ros-kinetic-joint-state-p
 
 sudo apt-get install ros-kinetic-gazebo-ros-control joint-state-publisher
 
-
 sudo apt-get install ros-kinetic-ros-controllers ros-kinetic-ros-control
 
 sudo nano ~/.bashrc
-
 
 at the end of the (bashrc) file add the follwing line
 (source /home/ruba/catkin_ws/devel/setup.bash)
@@ -33,13 +31,6 @@ ctrl + o
 source ~/.bashrc
 
 roslaunch robot_arm_pkg check_motors.launch
-
-
-
-
-
-
-
 
 
 
