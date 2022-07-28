@@ -33,5 +33,6 @@ source ~/.bashrc
 roslaunch robot_arm_pkg check_motors.launch
 
 
+![WhatsApp Image 2022-07-28 at 4 06 08 AM](https://user-images.githubusercontent.com/108241970/181401512-39a9b609-4d86-44c6-b5c8-bddf53b3e7e5.jpeg)
 
 
